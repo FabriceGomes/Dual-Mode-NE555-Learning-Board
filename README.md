@@ -12,3 +12,8 @@ Beyond its technical function, the project aims to spark curiosity and confidenc
 
 <img width="582" height="637" alt="image" src="https://github.com/user-attachments/assets/fe48a534-190a-4994-9c0b-f4869dea417c" />
 
+
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
